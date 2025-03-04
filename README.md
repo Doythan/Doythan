@@ -13,8 +13,7 @@
 </p>
 
 <p align="center">
-    🔥 Flutter 기반 모바일 앱 개발자<br>
-    📱 Riverpod을 활용한 상태 관리 + MVVM + Feature-First 폴더 구조 적용 경험<br>
+    🔥모바일 앱 개발자 준비중<br>
 </p>
 
 <br>
@@ -59,16 +58,3 @@
 </table>
 
 <br>
-
-<p align="center">
-    <strong>✨ More ✨</strong>
-</p>
-
-<div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dohyoungwon&theme=vue" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dohyoungwon&layout=compact&theme=vue"/>
-</div>
-
-<div align="center">
-  <img height="220em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dohyoungwon&theme=vue"/>
-</div>
