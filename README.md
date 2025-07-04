@@ -22,7 +22,7 @@
     <strong>🎓 Education 🎓</strong>
 </p>
 <p align="center">
-    SSAFY 삼성 청년 소프트웨어 아카데미 12기 | 2024/07/15 ~ <br>
+    SSAFY 삼성 청년 소프트웨어 아카데미 12기 | 2024/07/15 ~ <br> 2025/06/24
 </p>
 
 <br>
