@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <strong>안녕하세요 도경원입니다! 👐</strong>
+    <strong>안녕하세요 도경원 입니다! 👐</strong>
 </p>
  
 <br>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    개발자 취업준비생 입니다.. !<br>
+    개발자 취업준비중 입니다.. !<br>
 </p>
 
 <br>
