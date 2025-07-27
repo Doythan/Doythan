@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <strong>안녕하세요 도경원 입니다! 👐</strong>
+    <strong>안녕하세요 도경원 입니다 !!👐</strong>
 </p>
  
 <br>
