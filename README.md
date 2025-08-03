@@ -56,7 +56,7 @@
 </p>
 <p align="center">
     <strong>SSAFY 삼성 청년 소프트웨어 AI 아카데미 12기</strong> | 2024/07/15 ~ 2025/06/24 (1600h) <br>
-    <strong>Springboot 기반 웹개발과 Flutter 기반 앱개발 실무양성 심화과정</strong> | 2025-07-21 ~ 
+    <strong>K-디지털 트레이닝 Springboot 기반 웹개발과 Flutter 기반 앱개발 실무양성 심화과정</strong> | 2025-07-21 ~ 
 </p>
 
 <br>
