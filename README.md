@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>안녕하세요 도경원입니다.</strong><br/>
-    <strong>방문해주셔서 감사합니다 </strong>
+    <strong>방문해주셔서 감사합니다 ! </strong>
 </p>
 
  
