@@ -47,7 +47,7 @@
 ### 📫 Contact
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://doythan.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-FBBC05?style=for-the-badge&logo=gmail&logoColor=white)](mailto:won03289@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:won03289@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:02569B&height=120&section=footer" />
 
