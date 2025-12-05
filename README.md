@@ -1,11 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:02569B&height=200&section=header&text=doythan's%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Developer&descAlignY=60&descAlign=50" />
+
 ### 안녕하세요, 도경원입니다 👋
 
 의약품 도매 유통 솔루션 회사에서   
 시스템을 현대화하는 작업을 하고 있습니다.
-
-**"기록하며 성장하는 개발자"**
 
 <br/>
 
@@ -42,9 +42,13 @@
 
 <br/>
 
+<br/>
+
 ### 📫 Contact
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://doythan.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:won03289@gmail.com)
+[![Email](https://img.shields.io/badge/Email-FBBC05?style=for-the-badge&logo=gmail&logoColor=white)](mailto:won03289@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:02569B&height=120&section=footer" />
 
 </div>
